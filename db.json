@@ -1,4 +1,7 @@
 {
+  "posts": [
+    { "id": 1, "title": "Post 1" }
+  ],
   "tutor": [
     { "id": 1, "name": "Jay Emerald Chaves", "Subject": "Subject1" ,"no.": "09EXAMPLE35", "postID": 1},
     { "id": 2, "name": "Ibrahim Camid", "Subject": "Subject2", "no.": "09EXAMPLE35", "postID": 1},
