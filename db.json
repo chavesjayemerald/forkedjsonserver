@@ -3,10 +3,10 @@
     { "id": 1, "title": "Post 1" }
   ],
   "tutor": [
-    { "id": 1, "Firstname": "Jay Emerald", "Middlename": "V." ,"Lastname": "Chaves", "School_Affiliation": "University of Something", "Email": "chaves.jayemerald@gmail.com" ,"Subject": "English", "No": "0EXAMPLE035", "postId": 1},
-    { "id": 2, "Firstname": "Ibrahim", "Middlename": "B." ,"Lastname": "Camid", "School_Affiliation": "No Affiliations", "Email": "****************@gmail.com" ,"Subject": "Filipino", "No": "0EXAMPLE336", "postId": 1},
-    { "id": 3, "Firstname": "Neil Angelo", "Middlename": "L." ,"Lastname": "Pangan", "School_Affiliation": "No Affiliations" , "Email": "****************@gmail.com" ,"Subject": "Spanish", "No": "0EXAMPLE237", "postId": 1},
-    { "id": 4, "Firstname": "John Dave", "Middlename": "L." ,"Lastname": "Gargueña", "School_Affiliation": "Example of University College", "Email": "****************@gmail.com" ,"Subject": "Japanese", "No": "0EXAMPLE638", "postId": 1}
+    { "id": 1, "Firstname": "Jay Emerald", "Middlename": "V." ,"Lastname": "Chaves", "School_Affiliation": "University of Something", "Email": "chaves.jayemerald@gmail.com" ,"Subject": "React JS", "No": "0EXAMPLE035", "postId": 1},
+    { "id": 2, "Firstname": "Ibrahim", "Middlename": "B." ,"Lastname": "Camid", "School_Affiliation": "No Affiliations", "Email": "****************@gmail.com" ,"Subject": "MUI X", "No": "0EXAMPLE336", "postId": 1},
+    { "id": 3, "Firstname": "Neil Angelo", "Middlename": "L." ,"Lastname": "Pangan", "School_Affiliation": "No Affiliations" , "Email": "****************@gmail.com" ,"Subject": "CSS + HTML", "No": "0EXAMPLE237", "postId": 1},
+    { "id": 4, "Firstname": "John Dave", "Middlename": "L." ,"Lastname": "Gargueña", "School_Affiliation": "Example of University College", "Email": "****************@gmail.com" ,"Subject": "Vite", "No": "0EXAMPLE638", "postId": 1}
   ],
   "profile": {
     "name": "Tutor Finder"
